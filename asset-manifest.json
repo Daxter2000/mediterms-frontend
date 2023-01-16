@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/mediterms-frontend/static/css/main.4550782a.css",
-    "main.js": "/mediterms-frontend/static/js/main.2ee074e0.js",
+    "main.js": "/mediterms-frontend/static/js/main.92930414.js",
     "static/media/IBMPlexSansArabic-Bold.ttf": "/mediterms-frontend/static/media/IBMPlexSansArabic-Bold.d91284443c7eb554cc9f.ttf",
     "static/media/IBMPlexSansArabic-Medium.ttf": "/mediterms-frontend/static/media/IBMPlexSansArabic-Medium.6d320405b2c4366ea39d.ttf",
     "static/media/IBMPlexSansArabic-ExtraLight.ttf": "/mediterms-frontend/static/media/IBMPlexSansArabic-ExtraLight.c9c7b1fff96b0c0dcc37.ttf",
@@ -13,10 +13,10 @@
     "static/media/logo.svg": "/mediterms-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/mediterms-frontend/index.html",
     "main.4550782a.css.map": "/mediterms-frontend/static/css/main.4550782a.css.map",
-    "main.2ee074e0.js.map": "/mediterms-frontend/static/js/main.2ee074e0.js.map"
+    "main.92930414.js.map": "/mediterms-frontend/static/js/main.92930414.js.map"
   },
   "entrypoints": [
     "static/css/main.4550782a.css",
-    "static/js/main.2ee074e0.js"
+    "static/js/main.92930414.js"
   ]
 }
